@@ -1,0 +1,12 @@
+#MLFlows
+mlruns/
+
+#Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+#Jupyter Notebook
+.ipynb_checkpoints/
+
